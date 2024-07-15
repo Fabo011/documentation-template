@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation_template=self.webpackChunkdocumentation_template||[]).push([[2619],{6858:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/documentation-template/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
