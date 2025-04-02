@@ -31,4 +31,4 @@ jobs:
       - name: Deploy to GitHub Pages
         run: npm run deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Set token in your Github secrets
+          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }} # Set your token in your Github secrets
