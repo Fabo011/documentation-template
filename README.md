@@ -31,7 +31,18 @@ where you can find your documentation. If you have Github Enterprise you can eve
 
 ![Github Pages Deployment](./static/img/pages.png)
 
+Then, just commit your changes, when you type `git commit -m "message"` husky will execute build and deploy for you, just execute:
 ```
-npm run build
-npm run deploy
+git add .
 ```
+
+```
+git commit -m "message"
+```
+
+```
+git push origin main
+```
+
+## Demo Documentation on Github Pages
+https://fabo011.github.io/documentation-template/

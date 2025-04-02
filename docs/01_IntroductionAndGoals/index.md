@@ -105,17 +105,20 @@ affected by the system. Otherwise, you may get nasty surprises later in
 the development process. These stakeholders determine the extent and the
 level of detail of your work and its results.
 
+### Internal Stakeholders
 
-**Form**
+| Name          | Role           | Email              | Status  |
+|--------------|---------------|--------------------|---------|
+| *John Doe*   | Project Manager | john@example.com  | Active  |
+| *Jane Smith* | Developer      | jane@example.com  | Active  |
+| *Mark Lee*   | QA Engineer    | mark@example.com  | Not Active |
+| *Emily White*| Product Owner  | emily@example.com | Active  |
 
+### External Stakeholders
 
-Table with role names, person names, and their expectations with respect
-to the architecture and its documentation.
-
-+-------------+---------------------------+---------------------------+
-| Role/Name   | Contact                   | Expectations              |
-+=============+===========================+===========================+
-| *\<Role-1>* | *\<Contact-1>*            | *\<Expectation-1>*        |
-+-------------+---------------------------+---------------------------+
-| *\<Role-2>* | *\<Contact-2>*            | *\<Expectation-2>*        |
-+-------------+---------------------------+---------------------------+
+| Name             | Role                 | Email                 | Status      |
+|-----------------|----------------------|-----------------------|------------|
+| *Alice Brown*   | Client Representative | alice@client.com      | Active     |
+| *Bob Johnson*   | Vendor Manager       | bob@vendor.com        | Active     |
+| *Charlie Green* | Government Liaison   | charlie@gov.org       | Not Active |
+| *Diana Blue*    | Investor             | diana@investors.com   | Active     |

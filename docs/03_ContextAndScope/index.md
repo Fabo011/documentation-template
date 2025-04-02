@@ -12,6 +12,12 @@ and outputs) from the technical context (channels, protocols, hardware).
 
 https://mermaid.js.org/intro/getting-started.html
 
+:::note 
+Write mermaid diagrams directly in md file. The documentation template will automatically compile it.
+:::
+
+By the way, how to create annotations? https://docusaurus.io/docs/next/markdown-features/admonitions
+
 ```mermaid
     C4Context
       title System Context diagram for Internet Banking System
