@@ -24,12 +24,13 @@ $ npm run build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+## Deployment
+Make sure you set up Github Pages with the configuration as you can see in the picture below.
+Make sure you published the site, when you publish Github Pages, Github will create a random domain
+where you can find your documentation. If you have Github Enterprise you can even manage access to Github Pages.
 
-##### General
-https://github.com/Ajay-Dhangar/CodeMastermindHQ/discussions/288
+![Github Pages Deployment](./static/img/pages.png)
 
-##### Deployment
 ```
 npm run build
 npm run deploy
